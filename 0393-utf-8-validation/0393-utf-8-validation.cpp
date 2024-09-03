@@ -19,8 +19,6 @@ public:
                     break;
                 }
             }
-
-            cout << b << endl;
             
             if(numByte == 1)
             {
