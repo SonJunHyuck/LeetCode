@@ -12,10 +12,10 @@ public:
 
             if(others.count(other) > 0)
             {
-                if(others[other] == i)
-                {
-                    continue;
-                }
+                // if(others[other] == i)
+                // {
+                //     continue;
+                // }
 
                 indices[0] = others[other];
                 indices[1] = i;
